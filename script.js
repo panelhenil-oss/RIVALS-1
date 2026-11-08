@@ -5,7 +5,7 @@
    ========================================================== */
 const CONFIG = {
   // The link people will SHARE (paste yours here)
-  shareUrl: "https://youtu.be/dfpSUBsLc8g?si=jLZvowFhE8NUgHYE",
+  shareUrl: "https://youtu.be/4VtauiKVLiU",
 
   // The message that goes along with the shared link
   shareText: "Check this out 🔥",
