@@ -14,7 +14,7 @@ const CONFIG = {
   requiredShares: 5,
 
   // The REAL link that gets unlocked after enough shares
-  mainUrl: "https://linkvertise.com/1239053/3YvtIhLbofSo",
+  mainUrl: "https://direct-link.net/1239053/q059tXxQ1UDm",
   mainLabel: "Open Link",
 
   // After the LAST counted share, this countdown runs before unlocking
